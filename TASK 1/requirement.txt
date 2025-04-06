@@ -1,0 +1,1 @@
+Experiment with various loss functions. Description: Experiment with various loss functions (such as Mean Squared Error and Perceptual Loss) and compare their effects on colorization quality. Guidelines: Use the same model architecture and dataset, but modify the loss function. Compare the results and explain any differences. GUI is not necessary.
