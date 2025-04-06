@@ -1,0 +1,1 @@
+2. Colorization of historical photographs. Description: Create a model for colorizing historical images, with a focus on faithfully replicating the hues of specific historical periods (for example, World War II and the 1920s). Guidelines: This job needs you to refine your model using a dataset of historical photos. The emphasis should be on historical accuracy in colorization.
